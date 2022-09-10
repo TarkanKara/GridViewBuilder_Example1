@@ -39,6 +39,8 @@ GridView.builder'ın 3 önemli özelliği
 
 [https://medium.com/flutter-community/flutter-widgets-grid-view-the-whole-picture-34d2dd6dff9f](https://medium.com/flutter-community/flutter-widgets-grid-view-the-whole-picture-34d2dd6dff9f "smartCard-block")
 
+[https://levelup.gitconnected.com/gridview-and-staggered-gridview-in-flutter-ef5d999fcab0](https://levelup.gitconnected.com/gridview-and-staggered-gridview-in-flutter-ef5d999fcab0 "smartCard-block")
+
 ‌
 
 ‌
